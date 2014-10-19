@@ -1,0 +1,4 @@
+OpenQS
+======
+
+OSHW quick-shifter.
