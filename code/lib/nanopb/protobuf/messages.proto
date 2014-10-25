@@ -1,0 +1,11 @@
+ 
+import "protobuf/nanopb.proto"; 
+
+message Info {
+    required string version = 1 [(nanopb).max_size = 5];
+}
+
+message flash_data_t {
+    required uint32 address = 1;
+    required bytes data = 2 [(nanopb).max_size = 128];
+};

@@ -1,0 +1,12 @@
+[submodule "code/lib/ChibiOS-RT"]
+	path = code/lib/ChibiOS-RT
+	url = https://github.com/ChibiOS/ChibiOS-RT.git
+[submodule "code/lib/ChibiOS-Drivers"]
+	path = code/lib/ChibiOS-Drivers
+	url = https://github.com/ChibiOS/ChibiOS-Drivers.git
+[submodule "code/lib/uGFX"]
+	path = code/lib/uGFX
+	url = git@bitbucket.org:Tectu/ugfx.git
+[submodule "code/lib/heatshrink"]
+	path = code/lib/heatshrink
+	url = https://github.com/atomicobject/heatshrink.git
