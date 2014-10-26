@@ -3,7 +3,8 @@
 *.a
 *.b#*
 *.s#*
+*.exe
 
-code/build/
-code/.dep/
+code/*/build/
+code/*/.dep/
 *.user
